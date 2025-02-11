@@ -1,0 +1,75 @@
+=== Employee ===
+Name: nada
+Phone: 0123456789
+Email: nm@gmail.com
+Username: nadamahmoud
+Password: 123456
+
+=== Employee ===
+Name: ahmed 
+Phone: 0123456789
+Email: ahmed@gmail.com
+Username: ahmed_123
+Password: 123456
+
+=== User ===
+Name: salma
+Phone: 0123456789
+Email: salma@gmail.com
+Username: salma@123
+Password: 123456
+
+=== Employee ===
+Name: mahmoud 
+Phone: 0123456789
+Email: mahmoud@gmail.com
+Username: mahmoud_123
+Password: 1234555
+=== Employee ===
+Name: sara 
+Phone: 0123654975
+Email: sara1654@gmail.com
+Username: sara_123
+Password: sara@123
+=== Employee ===
+Name: sara 
+Phone: 0123456789
+Email: sara215@gmail.com
+Username: sara_568
+Password: 845483456
+=== Employee ===
+Name: hamdy
+Phone: 0123456789
+Email: hamdy254@gmail.com
+Username: hamdy_123
+Password: 123456
+=== Customer ===
+Name: yara
+Phone: 0123456789
+Email: yara@gmail.com
+Username: yara_123
+Password: 123456
+=== User ===
+Name: salma
+Phone: 1029821553
+Email: salma5145@gmail.com
+Username: salma@5
+Password: 1545554
+=== Employee ===
+Name: emad 
+Phone: 0123456789
+Email: emad@gmail.com
+Username: emad_123
+Password: 123456
+=== Employee ===
+Name: omar
+Phone: 0123456789
+Email: nm@gmail.com
+Username: omar_123
+Password: 123456
+=== Employee ===
+Name: sara 
+Phone: 0123456789
+Email: nm694426@gmail.com
+Username: sarayasser
+Password: 123456

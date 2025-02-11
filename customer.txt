@@ -1,0 +1,7 @@
+Name: rana
+Phone: 0123456789
+Email: rana@gmail.com
+Username: rana@123
+Password: 123456
+
+

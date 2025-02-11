@@ -1,0 +1,34 @@
+=== Admin ===
+omar=omar123
+salwa=salwa123
+
+
+=== Employee ===
+nadamahmoud=123456
+
+=== Employee ===
+ahmed_123=123456
+
+
+
+=== Employee ===
+mahmoud_123=1234555
+=== Employee ===
+sara_123=sara@123
+=== Employee ===
+sara_568=845483456
+=== Employee ===
+hamdy_123=123456
+=== Customer ===
+yara_123=123456
+=== User ===
+salma@5=1545554
+nadin+125=123456
+rana@123=123456
+malak123=123555
+=== Employee ===
+emad_123=123456
+=== Employee ===
+omar_123=123456
+=== Employee ===
+sarayasser=123456
